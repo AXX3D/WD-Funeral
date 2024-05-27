@@ -1,2 +1,2 @@
 # WD-Funeral
-This is a midterm exam
+Web Design Midterm Exam

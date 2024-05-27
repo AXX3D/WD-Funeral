@@ -1,0 +1,130 @@
+* 
+{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 10px;
+  padding: 20px;
+}
+body
+{
+  background: #111111;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.backgroundstart img
+{
+  position: absolute;
+  top: 90px;
+  right: -11px;
+  width: 1250px;
+  height: 800px;
+  display:flex;
+  justify-content: center;
+}
+.textfront
+{
+  margin-bottom: -20px;
+  position:absolute;
+  bottom: 0px;
+  left: 250px;
+  text-align: left;
+  color:#ffffff;
+  max-width: 500px;
+}
+#btnexplore
+{
+    color: #ffffff;
+    background-color: #ea00ff;
+    padding: 20px;
+    border: none;
+}
+#btnexplore:hover
+{
+    color: black;
+    background-color: #ffffff;
+}
+.container1
+{
+  position: Absolute;
+  width: 100%;
+  max-width: 950px;
+  max-height: 200px;
+  background: #fff;
+  bottom: -314px;
+  right: 150px;
+}
+h1
+{
+  line-height: 30px;
+}
+p
+{
+  line-height: 15px;
+}
+.b1
+{
+  font-size: small;
+  max-width: 250px;
+}
+.b2
+{
+  position: absolute;
+  top: 20px;
+  left: 350px;
+  font-size: small;
+  max-width: 250px;
+}
+.b3
+{
+  position: absolute;
+  top: 20px;
+  right: 0px;
+  font-size: small;
+  max-width: 250px;
+}
+.background2 img
+{
+  position: relative;
+  bottom: -800px;
+  width: 1250px;
+  height: 800px;
+}
+.textfront2
+{
+  margin-bottom: -20px;
+  position:absolute;
+  bottom: -850px;
+  left: 450px;
+  text-align: center;
+  color:#000000;
+  max-width: 500px;
+}
+#btnwork
+{
+    color: #3a3a3a;
+    background-color: #ffffff;
+    padding: 20px;
+    border: none;
+}
+#btnwork:hover
+{
+    color: rgb(255, 255, 255);
+    background-color: #3a3a3a;
+}
+.textfront3
+{
+  position:absolute;
+  bottom: -1400px;
+  left: 250px;
+  text-align: left;
+  color:#ffffff;
+  max-width: 500px;
+}
+.textfront3right
+{
+  position: absolute;
+  bottom: -1400px;;
+  right: 100px
+  max-width: 150px;
+}
